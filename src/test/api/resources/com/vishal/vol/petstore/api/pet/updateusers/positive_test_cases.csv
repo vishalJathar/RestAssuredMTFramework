@@ -1,0 +1,4 @@
+id, username, http_status, request_payload_file_name, response_schema_file_name, response_exact_matcher_file_name
+
+# success cases with passing sold status in query param
+"P1", "vishal", "204", "req_payload_pet_dog.json", "response_schema_dog.json", null

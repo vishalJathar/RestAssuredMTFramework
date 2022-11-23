@@ -1,0 +1,4 @@
+id, status, http_status, request_payload_file_name, response_schema_file_name, response_exact_matcher_file_name
+
+# success cases with passing available status in query param
+"P1", "Not Available", "405", null, null , null
